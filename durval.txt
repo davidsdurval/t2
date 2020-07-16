@@ -1,6 +1,12 @@
 salve rodrigo
 
+<<<<<<< HEAD
 ai meu deus
 
 
+=======
+vc ainda ta aqui?
+
+serio ainda ta aqui?
+>>>>>>> ramo
 
